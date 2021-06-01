@@ -26,7 +26,7 @@ workflows:
     publishing:
       email:
         recipients:
-          - sbis1999@gmail.com
+          - inzkhan@gmail.com
   ios-project-release:
     name: iOS release
     environment:
@@ -67,7 +67,7 @@ workflows:
     publishing:
       email:
         recipients:
-          - sbis1999@gmail.com
+          - inzkhan@gmail.com
   ios-sonarqube:
     name: iOS sonarqube
     environment:
@@ -114,4 +114,4 @@ workflows:
     publishing:
       email:
         recipients:
-          - sbis1999@gmail.com
+          - inzkhan@gmail.com
